@@ -15,4 +15,4 @@
 
 ## Preview
 
-![Preview](./resources/images/preview.png)
+![Preview](./resources/images/preview.jpg)
