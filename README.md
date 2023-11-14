@@ -4,7 +4,7 @@
 
 ![Level](https://img.shields.io/badge/Level-Pleno-yellow?style=for-the-badge)
 
-- [Video](https://youtube.com/@codingw3)
+- [Video](https://youtu.be/aRy64sgVi5U)
 - [Demo](https://codingw3.github.io/Video8-To-do-List)
 
 ## Technologies
