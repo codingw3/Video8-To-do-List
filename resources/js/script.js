@@ -20,6 +20,7 @@ addTaskButton.addEventListener("click", function () {
 
     taskList.appendChild(li);
     taskInput.value = "";
+    taskInput.focus();
   } else {
     alert("Enter a task");
   }
